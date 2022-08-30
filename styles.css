@@ -1,9 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .imp {
     font-weight: bold;
+}
 
+.titles {
+    text-align: center;
+}
+
+ul li {
+    background-color: aqua;
+}
+
+ol li {
+    background-color: blueviolet;
 }
 
 img {
     height: auto;
-    width: 200;
+    width: 400px;
 }
